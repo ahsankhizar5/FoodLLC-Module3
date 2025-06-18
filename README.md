@@ -2,7 +2,7 @@
 
 Elegant, responsive webpage for Food, LLC — a culinary showcase. Built with HTML, CSS, and Bootstrap 3, it features a clean layout, intuitive navigation, and mobile-friendly design optimized for showcasing menu items and user engagement.
 
-**📦 Repository:** [https://github.com/your-username/FoodLLC-Module3](https://github.com/your-username/FoodLLC-Module3)
+**📦 Repository:** [https://ahsankhizar5.github.io/FoodLLC-Module3/](https://ahsankhizar5.github.io/FoodLLC-Module3/)
 
 ---
 
